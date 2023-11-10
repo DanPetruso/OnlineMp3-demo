@@ -1,0 +1,54 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.button {
+  background-color: #d1d0d0; /* Green */
+  color: black;
+}
+
+#buttons {
+  margin-left: auto;
+  margin-right: auto;
+  outline: none;
+  
+}
+
+#songs {
+  font-size: 18px;
+}
+
+#songName {
+  font-size: 32px;
+  padding-bottom: 30px;
+}
+
+#bar {
+  width: 600px;
+  margin: 10px 15px;
+  top: 20px
+}
+
+#side{
+  position: fixed;
+  left: 10px;
+  top: 190px;
+  font-size: 12px;
+}
+
+#clear{
+  position: fixed;
+  left: 10px;
+  top: 225px;
+  font-size: 12px;
+}
+
+#filter{
+  position: fixed;
+  left: 10px;
+  top: 165px;
+  width: 120px;
+}
