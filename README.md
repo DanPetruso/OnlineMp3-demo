@@ -1,6 +1,6 @@
 # OnlineMp3-demo
 
-Website Linked Here: https://mokymusic.surge.sh B=*bug fixes in progress
+Website Linked Here: https://mokymusic.surge.sh *bug fixes in progress
 
 Important code files and demo video for online mp3 project. Music taken from https://youtube.com/playlist?list=PLhvux8L2nyEq1MLn1eqDHKurRNEEWvZ8R&si=bzcTPvK3M7Usb24G
 
